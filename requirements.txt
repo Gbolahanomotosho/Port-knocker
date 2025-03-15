@@ -1,0 +1,4 @@
+socket
+itertools
+threading
+tqdm
